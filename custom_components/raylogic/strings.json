@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add Raylogic Device",
+        "description": "Enter the IP address of your Raylogic device (dimmer, relay, or fan controller). Each device is added separately.",
+        "data": {
+          "host": "Device IP Address",
+          "port": "Port (default 5550)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to device. Check IP address and ensure device is powered on.",
+      "unknown": "Unexpected error. Check logs for details."
+    },
+    "abort": {
+      "already_configured": "This Raylogic device is already configured."
+    }
+  }
+}
