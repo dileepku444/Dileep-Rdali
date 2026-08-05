@@ -10,7 +10,7 @@ any cloud dependency.
 |--------|-------|-------------|--------|
 | DIN-H81-RS485 | 8ch Triac Dimmer 1.25A/ch | `light` with brightness | ✅ Tested |
 | DIN-RE16-RS485 | 16ch Relay/Curtain Controller | `cover` (open/close/stop) | ✅ Tested |
-| DIN-FN4-RS485 | 4ch Fan Dimmer (Hum-Free) | `fan` with 4 speeds | 🔜 In progress |
+| DIN-FN4-RS485 | 4ch Fan Dimmer (Hum-Free) | `fan` with 4 speeds | ✅ Tested |
 | DIN-HU4-RS485 | 4ch Universal Dimmer | `light` | 🔜 Planned |
 | DIN-RE8-RS485 | 8ch Relay/Curtain Controller | `cover`/`switch` | ✅ Tested |
 | DIN-DALI-64-RS485 | 64ch DALI Dimmer | `light` (RGB/CCT/white) | 🔜 Planned |
